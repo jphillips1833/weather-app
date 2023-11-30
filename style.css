@@ -15,7 +15,7 @@
 }
 
 body {
-  height: 100vh;
+  height: 95vh;
   background: linear-gradient(135deg, var(--blue-1), var(--blue-2));
 }
 .wrapper {
@@ -31,7 +31,7 @@ body {
   width: 100%;
   background: var(--transp-white-2);
   backdrop-filter: blur(10px);
-  padding: 3em 1.8em;
+  padding: 3px;
   border: 2px solid var(--transp-white-2);
   border-radius: 0.6em;
   box-shadow: 0 1.8em 3.7em var(--shadow);
